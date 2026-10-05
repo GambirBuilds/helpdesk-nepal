@@ -1,4 +1,4 @@
-# 🇳🇵 HelpDesk Nepal
+# HelpDesk Nepal
 
 **A Modern IT Service & Help-Desk Management Platform for Nepal**  
 *Tailored for Colleges, Universities, Schools, Corporate Offices, and IT Departments across Nepal.*
